@@ -3,7 +3,7 @@
 I`m a 14-year-ol writer & developer novice.
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/756801630170513418
-                            )]
+                            )
 
 Mainly using HTML & CSS (medium web developer), currently learning Python & React.
 
