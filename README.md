@@ -7,7 +7,7 @@ Mainly using HTML & CSS (medium web developer), currently learning Python & Reac
 
 <p float="left">
   ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Daskyt004&show_icons=true&theme=nightowl)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daskyt04l&theme=nightowl">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daskyt004l&theme=nightowl">
 </p>
 
 
