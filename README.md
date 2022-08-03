@@ -1,4 +1,4 @@
-⚡DaskTek
+
 Writer & developer novice.
 Mainly using HTML & CSS (medium web developer), currently learning Python & React.
 
