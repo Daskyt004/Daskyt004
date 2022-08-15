@@ -1,6 +1,6 @@
 
 Writer & developer novice.
-Mainly using HTML & CSS (medium web developer), currently learning Python & React.
+Mainly using HTML & CSS (medium web developer), currently learning Python & Typescript.
 
 ![Discord Presence](https://lanyard-profile-readme.vercel.app/api/756801630170513418)
 
